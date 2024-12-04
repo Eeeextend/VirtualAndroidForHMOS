@@ -9,9 +9,7 @@ Running Android .apk file on harmonyos Next .
 
 ### 计划有变，准备放弃开发
 
-如果新版纯血鸿蒙自带安卓虚拟机的话，那这个项目没必要开发了。
-
-![x](https://img.picui.cn/free/2024/08/28/66cf122d27ceb.png)
+![1733283335287.png](https://img.picui.cn/free/2024/12/04/674fce0a7091c.png)
 
 
 ### 提示
